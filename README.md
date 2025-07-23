@@ -177,7 +177,6 @@ It covers:
 
 ### **Screenshot References**
 
-![Measures Creation](3_Measures_Creation.png)
 ![Measures Creation Extended](3_Measures_Creation_2.png)
 
 ---
@@ -211,6 +210,9 @@ It covers:
 * Revenue Target:
 
   * `[Revenue Target] = LastMonthRevenue * 1.05`
+
+
+![Measures Creation](3_Measures_Creation.png)
 
 ---
 
