@@ -264,12 +264,16 @@ It covers:
    * Notes page added with commentary and navigation button
    * Additional insights bookmarked and linked
 
----
+--
+![Bookmark Integrated](5_BookMark_Integrated.png)
+
+--
+![Bookmark Integration](4_BookMark_Integration.png)
 
 ### **Screenshot References**
 
-![Bookmark Integration](4_BookMark_Integration.png)
-![Bookmark Integrated](5_BookMark_Integrated.png)
+
+
 ![Bookmark Ctrl Test](BookMark_Ctrl.png)
 ![Dashboard](Main_Dashboard.png)
 
