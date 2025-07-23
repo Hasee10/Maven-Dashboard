@@ -10,6 +10,9 @@ It covers:
 * Calculated columns & DAX measures creation
 * Dashboard development with interactive visuals, bookmarks, and navigation.
 
+![Dashboard](Main_Dashboard.png)
+
+
 ---
 
 ## **1. Initial Setup**
@@ -137,8 +140,6 @@ It covers:
 
 ---
 
-### **Screenshot Reference**
-
 ![Correcting Relationships](2_Correcting_Relations.png)
 
 ---
@@ -218,6 +219,8 @@ It covers:
 
 ## **7. Dashboard Visualizations**
 
+![Bookmark Ctrl Test](BookMark_Ctrl.png)
+
 ### **Topline Performance Page**
 
 1. **Matrix**:
@@ -269,13 +272,6 @@ It covers:
 
 --
 ![Bookmark Integration](4_BookMark_Integration.png)
-
-### **Screenshot References**
-
-
-
-![Bookmark Ctrl Test](BookMark_Ctrl.png)
-![Dashboard](Main_Dashboard.png)
 
 ---
 
